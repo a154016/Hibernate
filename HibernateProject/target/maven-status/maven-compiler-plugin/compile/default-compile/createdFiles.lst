@@ -1,0 +1,7 @@
+hibernate\test\oneToMany\TestForeignKeyAssociation.class
+hibernate\test\oneToMany\TestJoinTable.class
+hibernate\test\oneToMany\foreignKeyAsso\EmployeeEntity.class
+hibernate\test\oneToMany\joinTable\AccountEntity.class
+hibernate\test\oneToMany\foreignKeyAsso\AccountEntity.class
+hibernate\test\oneToMany\joinTable\EmployeeEntity.class
+hibernate\test\HibernateUtil.class
