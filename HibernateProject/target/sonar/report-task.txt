@@ -1,0 +1,5 @@
+projectKey=hibernate.test:hibernate-test-project
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/hibernate.test:hibernate-test-project
+ceTaskId=AXA4V_8Dvcnvgks6PBGh
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXA4V_8Dvcnvgks6PBGh
